@@ -17,8 +17,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/Aitum/obs-aitum-stream-suite.git
-        tag: 0.6.1
-        commit: d1310fc38137ab2b61fff8f2bc8a5e5d7e931ba3
+        tag: 1.0.0
+        commit: d00767254281b585c3c1bbc2d564b4fd4e9133d2
         x-checker-data:
           type: git
           is-main-source: true
