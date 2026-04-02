@@ -1,7 +1,7 @@
 id: com.obsproject.Studio.Plugin.AitumStreamSuite
 runtime: com.obsproject.Studio
 runtime-version: stable
-sdk: org.kde.Sdk//6.8
+sdk: org.freedesktop.Sdk//25.08
 build-extension: true
 separate-locales: false
 build-options:
@@ -17,8 +17,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/Aitum/obs-aitum-stream-suite.git
-        tag: 1.0.0
-        commit: d00767254281b585c3c1bbc2d564b4fd4e9133d2
+        tag: 1.1.0
+        commit: cefb6227c6bd73f7b1a77c4bd3d1914cbd9df5c8
         x-checker-data:
           type: git
           is-main-source: true
