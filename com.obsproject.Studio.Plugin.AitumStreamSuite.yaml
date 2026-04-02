@@ -1,7 +1,7 @@
 id: com.obsproject.Studio.Plugin.AitumStreamSuite
 runtime: com.obsproject.Studio
 runtime-version: stable
-sdk: org.kde.Sdk//6.8
+sdk: org.freedesktop.Sdk//25.08
 build-extension: true
 separate-locales: false
 build-options:
